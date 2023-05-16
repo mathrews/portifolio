@@ -1,2 +1,2 @@
 # Portifolio
- meu portifolio
+Portifólio amador feito por estudante de desenvolvimento.
